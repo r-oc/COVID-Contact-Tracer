@@ -44,7 +44,8 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-### Built With [![Python][Python]][Python-url]
+### Built With 
+[![Python][Python]][Python-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
